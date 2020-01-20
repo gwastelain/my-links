@@ -32,3 +32,10 @@ a:link {
 h2 {
     color: white;
 }
+
+.gregoire {
+    display: inline-block;
+    border: 4px black solid;
+    border-radius: 100%;
+    width: 25%;
+}
