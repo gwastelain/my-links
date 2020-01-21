@@ -22,7 +22,17 @@ html {
     width: 50%;
     text-align: center;
     color: white;
-    display: block
+    display: block;
+    text-decoration: none;
+}
+
+.button:hover {
+    background-color: #64C3E8;
+    text-decoration: none;
+}
+
+.button:link {
+    text-decoration: none;
 }
 
 a:link {
