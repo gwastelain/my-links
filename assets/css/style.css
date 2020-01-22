@@ -2,6 +2,7 @@ body {
     background-image: linear-gradient(#947AFF, #7BCBEB);
     background-position: center;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     height: 100vh;
 }
 
