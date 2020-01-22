@@ -5,9 +5,10 @@ body {
     height: 100vh;
 }
 
-
 .button {
     padding: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
     margin-bottom: 20px;
     border: ridge 2px white;
     text-align: center;
@@ -20,7 +21,6 @@ body {
 }
 
 a:hover {
-
     text-decoration: none;
 }
 
