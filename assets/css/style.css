@@ -40,8 +40,8 @@ h2 {
 .gregoire {
     display: inline-block;
     border: 3px grey double;
-    border-radius: 100%;
-    width: 25%;
+    border-radius: 50%;
+    width: 200px;
     margin-top: 20px;
     margin-bottom: 15px;
 }
